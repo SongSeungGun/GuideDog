@@ -9,7 +9,7 @@
 
 <h3> 얼굴 인식 후 대화 녹음 및 재생 기능 </h3>
 
-<div class="position-margin">
+<div align="center">
 <img src="./Program Play image/얼굴 인식 후 대화 녹음 및 재생 (1).png" alt="Image 1" width="400" height="300">
 <img src="./Program Play image/얼굴 인식 후 대화 녹음 및 재생 (2).png" alt="Image 1" width="400" height="300">
 감지된 사람의 얼굴을 인식 후 이전에 했던 대화를 기억시켜주는 듯이 이전에 대화했던 내용의 마지막 15초 mp3 파일을 자동으로 재생
