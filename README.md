@@ -1,3 +1,13 @@
+<style>
+	#wrap { 
+    	text-align:center;}
+	.box { 
+    	margin:0 auto; 
+        width:300px; 
+        height:100px; 
+        background-color: rgb(255,153,0);}
+</style>
+
 <h2> 시각 장애인을 위한 위험감지 안내봇 </h2>
 
 <h3>객체 인식 기능</h3>
