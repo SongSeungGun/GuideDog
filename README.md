@@ -1,12 +1,7 @@
-<style>
-	#wrap { 
-    	text-align:center;}
-	.box { 
-    	margin:0 auto; 
-        width:300px; 
-        height:100px; 
-        background-color: rgb(255,153,0);}
-</style>
+div { 
+  text-align: center; 
+	padding: 3em 0;
+}
 
 <h2> 시각 장애인을 위한 위험감지 안내봇 </h2>
 
