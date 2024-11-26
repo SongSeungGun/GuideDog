@@ -1,6 +1,6 @@
 <h2> 시각 장애인을 위한 위험감지 안내봇 </h2>
 
-<span style="color:blue"><h3>객체 인식 기능</h3></span>
+<h3><span style="color:blue">객체 인식 기능</span></h3>
 
 
 <div align=center>
