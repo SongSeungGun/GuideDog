@@ -10,6 +10,14 @@
   객체를 인식 후 프로그램상에 인식된 물체 감지 후 사고 예방을 위해 메세지 전달  <br>
 </div>  <hr>
 
+<h3> OpenAI의 대화 기능 </h3>
+
+<div align=center>
+  <p align="center">
+  <img src="./Program Play image/객체인식 이미지.png" alt="Image 1" width="1000" height="300">
+</p>
+</div>
+
 <h3> 얼굴 인식 얼굴 이미지 저장 </h3>
 
 <div align=center>
