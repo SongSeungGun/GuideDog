@@ -14,7 +14,7 @@
 
 <div align=center>
   <p align="center">
-  <img src="./Program Play image/대화 기능.png" alt="Image 1" width="1000" height="300">
+  <img src="./Program Play image/대화기능.png" alt="Image 1" width="1000" height="300">
 </p>
 </div>
 
