@@ -25,8 +25,8 @@
 
 <div align=center>
 <p align="center">
-  <img src="./Program Play image/얼굴 인식 후 대화 녹음 및 재생 (1).png" alt="Image 1" width="400" height="400">
-  <img src="./Program Play image/얼굴 인식 후 대화 녹음 및 재생 (2).png" alt="Image 1" width="400" height="400">
+  <img src="./Program Play image/얼굴 인식 후 대화 녹음 및 재생 (1).png" alt="Image 1" width="300" height="400">
+  <img src="./Program Play image/얼굴 인식 후 대화 녹음 및 재생 (2).png" alt="Image 1" width="300" height="400">
 </p>
 감지된 사람의 얼굴을 인식 후 이전에 했던 대화를 기억시켜주는 듯이 이전에 대화했던 내용의 마지막 15초 mp3 파일을 자동으로 재생
 프로그램 상 얼굴이 저장되지 않는 사람이 감지되면 새롭게 얼굴 저장 후 대화 녹음
